@@ -1,37 +1,41 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="242" viewBox="0 0 1100 242" role="img" aria-labelledby="title">
-  <title id="title">Développement logiciel</title>
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="252" viewBox="0 0 1100 252" role="img" aria-labelledby="title">
+  <title id="title">Architecture des systèmes d’information · Cybersécurité et DevSecOps</title>
   <defs>
     <linearGradient id="background" x2="1" y2="1">
-      <stop stop-color="#0F192F"/>
-      <stop offset="1" stop-color="#213B61"/>
+      <stop stop-color="#0E1729"/>
+      <stop offset="1" stop-color="#203751"/>
     </linearGradient>
-    <linearGradient id="accent" x2="1" y2="1">
-      <stop stop-color="#84AFEF"/>
-      <stop offset="1" stop-color="#78E4C8"/>
-    </linearGradient>
-    <linearGradient id="grid-fade">
+    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M24 0H0V24" fill="none" stroke="#9CB9DB" stroke-opacity=".15"/>
+    </pattern>
+    <linearGradient id="fade">
       <stop stop-color="white" stop-opacity="0"/>
       <stop offset="1" stop-color="white"/>
     </linearGradient>
-    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
-      <path d="M24 0H0V24" fill="none" stroke="#A4C3F0" stroke-opacity=".14"/>
-    </pattern>
-    <clipPath id="frame">
-      <rect width="1100" height="242" rx="22"/>
-    </clipPath>
-    <mask id="grid-mask">
-      <rect x="605" width="495" height="242" fill="url(#grid-fade)"/>
-    </mask>
+    <mask id="grid-mask"><rect x="653" width="447" height="252" fill="url(#fade)"/></mask>
+    <clipPath id="frame"><rect width="1100" height="252" rx="18"/></clipPath>
   </defs>
   <g clip-path="url(#frame)">
-    <rect width="1100" height="242" fill="url(#background)"/>
-    <rect x="605" width="495" height="242" fill="url(#grid)" mask="url(#grid-mask)"/>
-    <path d="M690 242L878 0M751 242L939 0M967 242L1155 0" stroke="#97BBEE" stroke-opacity=".15"/>
-    <rect x="820" y="63" width="174" height="126" rx="23" fill="#203A60" stroke="#6E96C7" stroke-opacity=".45"/>
-    <rect x="804" y="53" width="174" height="126" rx="23" fill="#152641" stroke="#83A9D9"/>
-    <path d="M856 96l-23 20 23 20m69-40 23 20-23 20m-21-47-27 54" fill="none" stroke="url(#accent)" stroke-width="5.5" stroke-linecap="round" stroke-linejoin="round"/>
-    <path d="M64 75h45" stroke="#78E4C8" stroke-width="5" stroke-linecap="round"/>
-    <text x="60" y="154" fill="#F3F7FF" font-family="Segoe UI, Arial, sans-serif" font-size="64" font-weight="700" letter-spacing="-2.2">Développement logiciel</text>
+    <rect width="1100" height="252" fill="url(#background)"/>
+    <rect x="653" width="447" height="252" fill="url(#grid)" mask="url(#grid-mask)"/>
+    <path d="M65 45h42" fill="none" stroke="#83D7CA" stroke-width="4" stroke-linecap="round"/>
+    <g fill="#F3F7FD" font-family="Segoe UI, Arial, sans-serif" font-weight="700" font-size="57" letter-spacing="-1.9">
+      <text x="61" y="110">Architecture des systèmes</text>
+      <text x="61" y="172">d’information</text>
+    </g>
+    <text x="64" y="215" fill="#A9CFD9" font-family="Segoe UI, Arial, sans-serif" font-size="27">Cybersécurité et DevSecOps</text>
+    <g transform="translate(780 26)">
+      <path d="M43 39h49l32 45m106-45h-47l-33 45M43 161h49l32-45m106 45h-47l-33-45" fill="none" stroke="#83A9CD" stroke-width="2" stroke-opacity=".65"/>
+      <g fill="#243D57" stroke="#93B4D4">
+        <rect x="28" y="24" width="30" height="30" rx="6"/>
+        <rect x="215" y="24" width="30" height="30" rx="6"/>
+        <rect x="28" y="146" width="30" height="30" rx="6"/>
+        <rect x="215" y="146" width="30" height="30" rx="6"/>
+      </g>
+      <rect x="84" y="47" width="106" height="106" rx="17" fill="#15263A" stroke="#83D7CA" stroke-width="2"/>
+      <path d="M137 70c8 8 18 11 26 13v19c0 14-11 22-26 29-15-7-26-15-26-29V83c8-2 18-5 26-13Z" fill="none" stroke="#9FE4D9" stroke-width="3.5" stroke-linejoin="round"/>
+      <path d="m128 100 7 7 12-13" fill="none" stroke="#9FE4D9" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+    </g>
   </g>
-  <rect x=".5" y=".5" width="1099" height="241" rx="21.5" fill="none" stroke="#9AB8E2" stroke-opacity=".28"/>
+  <rect x=".5" y=".5" width="1099" height="251" rx="17.5" fill="none" stroke="#9AB8D6" stroke-opacity=".28"/>
 </svg>
