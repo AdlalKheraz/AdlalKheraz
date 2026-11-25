@@ -1,8 +1,11 @@
 <p align="center">
-  <img src="./assets/profile-banner.svg" width="100%" alt="Adlal Kheraz · Développement web et logiciel">
+  <img src="./assets/profile-banner.svg" width="100%" alt="Développement logiciel">
 </p>
 
-<p align="center">Je développe des interfaces web, des API et des outils en ligne de commande.</p>
+<p align="center">
+  Je développe des interfaces web, des API et des outils en ligne de commande.<br>
+  <strong>DevSecOps</strong> · <strong>Agents IA</strong>
+</p>
 
 <p align="center">
   <a href="https://github.com/antonkomarev/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=AdlalKheraz&amp;label=Vues+du+profil&amp;color=3961A7&amp;style=flat-square" alt="Compteur de vues du profil"></a>
