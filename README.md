@@ -2,9 +2,13 @@
   <img src="https://raw.githubusercontent.com/AdlalKheraz/AdlalKheraz/a6b2436405f69b9a0dc924bba225c6ecef760805/assets/profile-banner.svg" width="100%" alt="Architecture des systèmes d’information · Cybersécurité et DevSecOps">
 </p>
 
-Diplômé en **architecture des systèmes d’information**, avec une spécialisation en **cybersécurité**, je conçois et livre des applications de bout en bout.
+Diplômé en **architecture des systèmes d’information** avec une spécialisation en **cybersécurité**, je conçois et livre des applications de bout en bout, du modèle de données à la mise en production sécurisée.
 
-Je définis l’architecture et le modèle de données, développe les services et intègre les contrôles de sécurité à la chaîne CI/CD. Je prends ensuite en charge le déploiement et la supervision pour suivre le fonctionnement des services en production.
+## Architecture et données
+
+- **Architecture applicative** · Dimensionnement, montée en charge et déploiement en cluster selon les besoins.
+- **Bases de données avancées** · Modélisation, SQL avancé, indexation et optimisation des requêtes.  
+  ![MySQL](https://img.shields.io/badge/MySQL-182641?style=flat-square&logo=mysql&logoColor=8CBEE8)
 
 ## Projets sélectionnés
 
@@ -20,7 +24,10 @@ Je définis l’architecture et le modèle de données, développe les services 
 ![TypeScript](https://img.shields.io/badge/TypeScript-182641?style=flat-square&logo=typescript&logoColor=8DB9FF) ![JavaScript](https://img.shields.io/badge/JavaScript-182641?style=flat-square&logo=javascript&logoColor=F7DF1E) ![Java](https://img.shields.io/badge/Java-182641?style=flat-square&logo=openjdk&logoColor=F6B37A) ![PHP](https://img.shields.io/badge/PHP-182641?style=flat-square&logo=php&logoColor=ACB9FF) ![Go](https://img.shields.io/badge/Go-182641?style=flat-square&logo=go&logoColor=70D7EA) ![Python](https://img.shields.io/badge/Python-182641?style=flat-square&logo=python&logoColor=F6D365) ![C](https://img.shields.io/badge/C-182641?style=flat-square&logo=c&logoColor=A4C1FA)
 
 **Technologies applicatives**  
-![Angular](https://img.shields.io/badge/Angular-182641?style=flat-square&logo=angular&logoColor=FF8399) ![React](https://img.shields.io/badge/React-182641?style=flat-square&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-182641?style=flat-square&logo=nextdotjs&logoColor=F3F7FF) ![Node.js](https://img.shields.io/badge/Node.js-182641?style=flat-square&logo=nodedotjs&logoColor=8BD78F) ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-182641?style=flat-square&logo=springboot&logoColor=9BD781) ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-182641?style=flat-square&logo=tailwindcss&logoColor=7AD8FA) ![MySQL](https://img.shields.io/badge/MySQL-182641?style=flat-square&logo=mysql&logoColor=8CBEE8)
+![Angular](https://img.shields.io/badge/Angular-182641?style=flat-square&logo=angular&logoColor=FF8399) ![React](https://img.shields.io/badge/React-182641?style=flat-square&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-182641?style=flat-square&logo=nextdotjs&logoColor=F3F7FF) ![Node.js](https://img.shields.io/badge/Node.js-182641?style=flat-square&logo=nodedotjs&logoColor=8BD78F) ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-182641?style=flat-square&logo=springboot&logoColor=9BD781) ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-182641?style=flat-square&logo=tailwindcss&logoColor=7AD8FA)
+
+**Création de sites**  
+![WordPress](https://img.shields.io/badge/WordPress-182641?style=flat-square&logo=wordpress&logoColor=93CCF3) ![Wix](https://img.shields.io/badge/Wix-182641?style=flat-square&logo=wix&logoColor=F3F7FF)
 
 **Automatisation** · Développement d’agents IA
 
@@ -39,11 +46,16 @@ Je définis l’architecture et le modèle de données, développe les services 
 | :--- | :--- |
 | Intégration et livraison continues | ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-182641?style=flat-square&logo=githubactions&logoColor=A8BDFF) ![GitLab CI/CD](https://img.shields.io/badge/GitLab%20CI%2FCD-182641?style=flat-square&logo=gitlab&logoColor=FFA259) ![Jenkins](https://img.shields.io/badge/Jenkins-182641?style=flat-square&logo=jenkins&logoColor=F2C5B9) |
 | Déploiement continu (GitOps) | ![Argo CD](https://img.shields.io/badge/Argo%20CD-182641?style=flat-square&logo=argo&logoColor=F7A994) · ![Flux](https://img.shields.io/badge/Flux-182641?style=flat-square&logo=flux&logoColor=8FB7FF) |
+| Paquets Kubernetes (charts) | ![Helm](https://img.shields.io/badge/Helm-182641?style=flat-square&logo=helm&logoColor=AEBDFF) |
+| Certificats TLS | <img src="https://avatars.githubusercontent.com/u/39950598?v=4&amp;s=32" width="16" height="16" alt="">&nbsp;cert-manager |
 | Analyse statique du code (SAST) | ![SonarQube](https://img.shields.io/badge/SonarQube-182641?style=flat-square&logo=sonarqubeserver&logoColor=98C6FF) · ![GitHub CodeQL](https://img.shields.io/badge/GitHub%20CodeQL-182641?style=flat-square&logo=github&logoColor=F3F7FF) · <img src="https://avatars.githubusercontent.com/u/29760937?v=4&amp;s=32" width="16" height="16" alt="">&nbsp;Semgrep |
 | Analyse des dépendances (SCA) | ![Dependabot](https://img.shields.io/badge/Dependabot-182641?style=flat-square&logo=dependabot&logoColor=9BC4FB) ![OWASP Dependency-Check](https://img.shields.io/badge/OWASP%20Dependency--Check-182641?style=flat-square&logo=owasp&logoColor=EEF3FC) · ![Snyk](https://img.shields.io/badge/Snyk-182641?style=flat-square&logo=snyk&logoColor=D6B4FF) · ![Renovate](https://img.shields.io/badge/Renovate-182641?style=flat-square&logo=renovate&logoColor=89D5FF) |
 | Images et inventaire logiciel (SBOM) | ![Trivy](https://img.shields.io/badge/Trivy-182641?style=flat-square&logo=trivy&logoColor=88C5FF) · ![Docker Scout](https://img.shields.io/badge/Docker%20Scout-182641?style=flat-square&logo=docker&logoColor=8BB8FF) · <img src="https://avatars.githubusercontent.com/u/16208487?v=4&amp;s=32" width="16" height="16" alt="">&nbsp;Anchore Grype · <img src="https://avatars.githubusercontent.com/u/16208487?v=4&amp;s=32" width="16" height="16" alt="">&nbsp;Anchore Syft |
+| Registre d’artefacts | ![Harbor](https://img.shields.io/badge/Harbor-182641?style=flat-square&logo=harbor&logoColor=8CDDC5) |
 | Détection et gestion des secrets | <img src="https://gitleaks.io/favicon.ico" height="18" alt=""> Gitleaks · ![Vault](https://img.shields.io/badge/Vault-182641?style=flat-square&logo=vault&logoColor=F6DA80) |
-| Infrastructure as code (IaC) | ![Terraform](https://img.shields.io/badge/Terraform-182641?style=flat-square&logo=terraform&logoColor=BEAAFF) · <img src="https://raw.githubusercontent.com/bridgecrewio/checkov/main/docs/web/images/favicon.png" height="18" alt=""> Checkov · ![Trivy](https://img.shields.io/badge/Trivy-182641?style=flat-square&logo=trivy&logoColor=88C5FF) |
+| Provisionnement (IaC) | ![Terraform](https://img.shields.io/badge/Terraform-182641?style=flat-square&logo=terraform&logoColor=BEAAFF) · ![OpenTofu](https://img.shields.io/badge/OpenTofu-182641?style=flat-square&logo=opentofu&logoColor=FFE189) |
+| Gestion de configuration | ![Ansible](https://img.shields.io/badge/Ansible-182641?style=flat-square&logo=ansible&logoColor=F5C0BB) |
+| Analyse de l’IaC | <img src="https://raw.githubusercontent.com/bridgecrewio/checkov/main/docs/web/images/favicon.png" height="18" alt=""> Checkov · ![Trivy](https://img.shields.io/badge/Trivy-182641?style=flat-square&logo=trivy&logoColor=88C5FF) |
 | Politiques de déploiement | <img src="https://avatars.githubusercontent.com/u/68448710?v=4&amp;s=32" width="16" height="16" alt="">&nbsp;Kyverno · <img src="https://avatars.githubusercontent.com/u/16468693?v=4&amp;s=32" width="16" height="16" alt="">&nbsp;Open Policy Agent |
 | Tests dynamiques (DAST) | ![ZAP](https://img.shields.io/badge/ZAP-182641?style=flat-square&logo=zap&logoColor=82CEFF) |
 | Signature et vérification d’artefacts | <img src="https://raw.githubusercontent.com/sigstore/community/main/artwork/cosign/icons/color/sigstore_cosign-icon-color.svg" height="18" alt=""> Cosign · <img src="https://avatars.githubusercontent.com/u/32203186?v=4&amp;s=32" width="16" height="16" alt="">&nbsp;Notation |
